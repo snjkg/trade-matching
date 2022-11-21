@@ -8,3 +8,4 @@ Requirements: PostgreSql
 1. Run setup.sql
 2. Run match-trade.sql
 3. Run cancel-trade.sql
+4. Use the orders_match and orders_cancel procedures to create and delete orders.
